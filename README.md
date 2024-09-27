@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning HTML,CSS and JavaScrpit ...<br>🎯 Goals:Front-end programmer ...<br>🎲 Fun fact:I'm from Rio de Janeiro and I love a jetta ...</p>
 
 ###
 
@@ -19,8 +19,7 @@
 ###
 
 <div align="left">
-    <img src="VW Jetta GLI" height="40" alt="logo jetta/>
-    <img width="12"/>
+   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
